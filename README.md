@@ -1,3 +1,9 @@
+Additional note:
+
+I had a lot of problems updating the files but the final files should all be labelled "final tower defence".
+
+
+
 Student Declaration:
 
 This project was created by Samuel Ajibola Bolarinde. I declare that this is my own work, completed as part of my school project. Any external resources or libraries used have been properly cited in this document.
@@ -89,3 +95,4 @@ Citations
 
 CHAT GPT
 Youtube- Coding with Russ
+
