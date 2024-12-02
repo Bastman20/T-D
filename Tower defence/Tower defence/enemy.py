@@ -57,5 +57,5 @@ class Enemy(pg.sprite.Sprite):
   def check_alive(self, world):
     if self.health <= 0:
       world.killed_enemies += 1
-      world.money += c.KILL_REWARD
+      world.money += c.Reward
       self.kill()
