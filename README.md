@@ -1,4 +1,5 @@
-Student Declaration
+Student Declaration:
+
 This project was created by Samuel Ajibola Bolarinde. I declare that this is my own work, completed as part of my school project. Any external resources or libraries used have been properly cited in this document.
 
 
